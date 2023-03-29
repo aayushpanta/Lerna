@@ -1,5 +1,7 @@
 # Lerna Getting Started Example
 
+This repo is a cloned repo for getting started with lerna as mentioned in its offical documentation(https://lerna.js.org/docs/getting-started). 
+
 This repo is a small example of using Lerna 5+.
 
 Watch this [10-minute walkthrough](https://youtu.be/1oxFYphTS4Y) to see how new versions of Lerna work.
